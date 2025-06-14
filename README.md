@@ -140,5 +140,4 @@ Mở 2 terminal, terminal 1 cd đến thư mục controller, terminal 2 cd đế
 
 
 ## Liên hệ
-- Lê Phạm Công
-- Email: [lpc051002@gmail.com](mailto:lpc051002@gmail.com).
+- Email: trungnguyenraz@gmail.com (Trung Logaric)
