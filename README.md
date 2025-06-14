@@ -7,12 +7,13 @@
 
 | **Tên**              | **Lớp**               | **Mã sinh viên**          |
 |-------------------    |-------------------------|--------------------------|
-| **Lê Phạm Công**    | 20KTMT1                 | 106200221                |
-| **Phan Công Danh**       | 20KTMT1                 | 106200222                |
+| **Nguyễn Ngọc Trung**    | 21KTMT2                 | 106210257                |
+| **Lê Dương Khang**       | 21KTMT2                 | 106210242                |
+| **Lê Dương Khang**       | 21KTMT1                 | 106210049               |
 
 
 ---
-## Link video demo (Youtube): https://youtu.be/hJq-6aTnBpk
+## Link video demo (Youtube): cbiup
 
 
 ## Tổng quan
